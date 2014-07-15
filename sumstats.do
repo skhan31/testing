@@ -1,6 +1,8 @@
 * Calculate some summary statistics for auto.dta.
 
 version 10
+**Author: Sana Khan
+**Date: 14/05/14
 
 set more off
 

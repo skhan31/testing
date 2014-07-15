@@ -1,6 +1,7 @@
 * Run some basic regressions on auto.dta.
 
 version 10
+**Author: Sana Khan
 
 set more off
 
